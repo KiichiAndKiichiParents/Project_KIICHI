@@ -1,0 +1,32 @@
+.iphone {
+  background-image : url("simg_sagami05.jpg");
+  height:480px;
+  width:320px;
+}
+.header{
+  background-color:black;
+  height: 120px;
+  width : 320px;
+}
+.picture{
+  height: 230px;
+  width : 320px;
+  text-align: center;
+  vertical-align: center;
+}
+.message{
+  height: 50px;
+  width : 320px;
+  text-align : center;
+  background-color : blue;
+}
+.buttons{
+  height: 70px;
+  width : 320px;
+  background-color : blue;
+}
+.footer{
+  background-color:black;
+  height: 120px;
+  width : 320px;
+}
