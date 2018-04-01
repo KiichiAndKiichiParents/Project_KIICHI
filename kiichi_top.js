@@ -1,6 +1,12 @@
 //TODO:餌やりボタン実装
 
+var feedButton = this.document.getElementById("feedButton");
 
+var feedToKiichi = function(event){
+  alert("kiiiiichi");
+}
+
+feedButton.addEventListener('click',feedToKiichi,true);
 //TODO:カメラボタン実装
 
 
